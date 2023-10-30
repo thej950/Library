@@ -1,4 +1,4 @@
-def gitDownload(repo)
+def newGit(repo)
 {
   git "https://github.com/thej950/${repo}.git"
 }
